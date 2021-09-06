@@ -1,0 +1,31 @@
+body{
+    background-color: linen
+}
+
+td{
+  text-align: center;
+}
+
+#form{
+width: 50%;
+display: grid;
+padding: 20px;
+margin: 20px;
+border: solid 1px black;
+border-radius: 20px;
+box-sizing: border-box;
+float: left;
+background-color: chartreuse;
+}
+
+#table{
+width: 40%;
+display: grid;
+padding: 20px;
+margin: 20px;
+border: solid 1px black;
+border-radius: 20px;
+box-sizing: border-box;
+float: right;
+background-color: yellow;
+}
